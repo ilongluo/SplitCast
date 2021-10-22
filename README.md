@@ -1,2 +1,2 @@
 # SplitCast
-The codes will be added soon after INFOCOM20.
+The codes of INFOCOM20 paper "Splitcast: Optimizing multicast flows in reconfigurable datacenter networks".
